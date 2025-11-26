@@ -1,4 +1,4 @@
-<h1 align="left">Hi, i'm Kent, a Cybersecurity Enthusiast from Romania.</h1>
+<h1 align="left">Hi, i'm K0nfuciuz, a Cybersecurity Enthusiast from Romania.</h1>
 
 ###
 
